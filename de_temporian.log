@@ -1,0 +1,322 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.vmf
+Map revision 97
+Error: displacement found on a(n) func_detail entity - not supported (entity 9, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.vmf
+Map revision 98
+Patching WVT material: maps/de_temporian/plaster/hr_p/venice/venice_plaster_blend_5_wvt_patch
+Patching WVT material: maps/de_temporian/de_cbble/grass_alt/grass_c_blend_wvt_patch
+Patching WVT material: maps/de_temporian/de_dust/hr_dust/hr_dust_cinderblock_01b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58316 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 179 texinfos to 152
+Reduced 27 texdatas to 24 (827 bytes to 711)
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt
+ 585 portalclusters
+2200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.vmf
+Map revision 98
+Patching WVT material: maps/de_temporian/plaster/hr_p/venice/venice_plaster_blend_5_wvt_patch
+Patching WVT material: maps/de_temporian/de_cbble/grass_alt/grass_c_blend_wvt_patch
+Patching WVT material: maps/de_temporian/de_dust/hr_dust/hr_dust_cinderblock_01b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58316 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 179 texinfos to 152
+Reduced 27 texdatas to 24 (827 bytes to 711)
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt
+ 585 portalclusters
+2200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2015 visible clusters (0.00%)
+Total clusters visible: 235484
+Average clusters visible: 402
+Building PAS...
+Average clusters audible: 584
+visdatasize:90581  compressed from 93600
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+4 minutes, 30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+Loaded alpha texture materials\models\props_foliage\branch_city.vtf
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches01.vtf
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+1479 faces
+2 degenerate faces
+853636 square feet [122923696.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1477 patches before subdivision
+19865 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 750510, max 418
+transfer lists:   5.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19563, 17504, 14731)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2539, 2067, 1385)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(510, 369, 188)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(107, 71, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(26, 15, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0070 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                149/8192         1788/98304    ( 1.8%) 
+brushsides             955/81920        7640/655360   ( 1.2%) 
+planes                 946/65536       18920/1310720  ( 1.4%) 
+vertexes              2169/65536       26028/786432   ( 3.3%) 
+nodes                 1134/65536       36288/2097152  ( 1.7%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 24/4096          768/131072   ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1479/65536       82824/3670016  ( 2.3%) 
+hdr faces             1479/65536       82824/3670016  ( 2.3%) 
+origfaces              656/65536       36736/3670016  ( 1.0%) 
+facebrushes            105/0             210/0        ( 0.0%) 
+facebrushlists        1479/0            5916/0        ( 0.0%) 
+leaves                1139/65536       36448/2097152  ( 1.7%) 
+leaffaces             1650/65536        3300/131072   ( 2.5%) 
+leafbrushes            690/65536        1380/131072   ( 1.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9609/512000      38436/2048000  ( 1.9%) 
+edges                 5054/256000      20216/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         11/8192         1100/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            128/32768        1280/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1842/65536        3684/131072   ( 2.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/1024         2112/360448   ( 0.6%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1325800/0        ( 0.0%) 
+visdata               [variable]       90581/16777216 ( 0.5%) 
+entdata               [variable]        5807/393216   ( 1.5%) 
+LDR ambient table     1139/65536        4556/262144   ( 1.7%) 
+HDR ambient table     1139/65536        4556/262144   ( 1.7%) 
+LDR leaf ambient      1139/65536       31892/1835008  ( 1.7%) 
+HDR leaf ambient      5216/65536      146048/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15458    ( 0.0%) 
+pakfile               [variable]     2824376/0        ( 0.0%) 
+physics               [variable]       58316/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 4016
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+1 minute, 9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.vmf
+Map revision 98
+Patching WVT material: maps/de_temporian/plaster/hr_p/venice/venice_plaster_blend_5_wvt_patch
+Patching WVT material: maps/de_temporian/de_cbble/grass_alt/grass_c_blend_wvt_patch
+Patching WVT material: maps/de_temporian/de_dust/hr_dust/hr_dust_cinderblock_01b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58316 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 179 texinfos to 152
+Reduced 27 texdatas to 24 (827 bytes to 711)
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt
+ 585 portalclusters
+2200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.vmf
+Map revision 98
+Patching WVT material: maps/de_temporian/plaster/hr_p/venice/venice_plaster_blend_5_wvt_patch
+Patching WVT material: maps/de_temporian/de_cbble/grass_alt/grass_c_blend_wvt_patch
+Patching WVT material: maps/de_temporian/de_dust/hr_dust/hr_dust_cinderblock_01b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58316 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 179 texinfos to 152
+Reduced 27 texdatas to 24 (827 bytes to 711)
+Writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+reading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.prt
+ 585 portalclusters
+2200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2054 visible clusters (0.00%)
+Total clusters visible: 235523
+Average clusters visible: 402
+Building PAS...
+Average clusters audible: 584
+visdatasize:90581  compressed from 93600
+writing c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp', but we don't own that location. Allowing...
+5 minutes, 35 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\de_temporian.bsp
+Loaded alpha texture materials\models\props_foliage\branch_city.vtf
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches01.vtf
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+1479 faces
+2 degenerate faces
+853636 square feet [122923696.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1477 patches before subdivision
+19865 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 750510, max 418
+transfer lists:   5.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19563, 17504, 14731)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2539, 2067, 1385)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(510, 369, 188)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(107, 71, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(26, 15, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0095 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3.
